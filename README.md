@@ -1,1 +1,1 @@
-pubg-placement-prediction
+![](https://i.imgur.com/nxTnUJA.png)
